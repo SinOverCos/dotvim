@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='scp://tan@ec2-52-60-181-30.ca-central-1.compute.amazonaws.com//home/tan/parkr/parkr-backend/parkr/'
+let g:netrw_dirhist_2='scp://tan@ec2-52-60-181-30.ca-central-1.compute.amazonaws.com//home/tan/parkr/parkr-backend/parkr/components/'
+let g:netrw_dirhist_3='scp://tan@ec2-52-60-181-30.ca-central-1.compute.amazonaws.com//home/tan/parkr/parkr-backend/parkr/components/registration/'
+let g:netrw_dirhist_4='scp://tan@ec2-52-60-181-30.ca-central-1.compute.amazonaws.com//home/tan/'
+let g:netrw_dirhist_5='scp://tan@ec2-52-60-181-30.ca-central-1.compute.amazonaws.com//home/tan/parkr/'
+let g:netrw_dirhist_6='scp://tan@ec2-52-60-181-30.ca-central-1.compute.amazonaws.com//home/tan/parkr/parkr-backend/'
