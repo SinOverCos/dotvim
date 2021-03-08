@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/ubuntu/social-monke/firebase_functions/functions'
+let g:netrw_dirhist_3='/home/ubuntu/social-monke/firebase_functions/functions/util'
+let g:netrw_dirhist_2='/home/ubuntu/social-monke/firebase_functions/functions'
 let g:netrw_dirhist_1='/home/ubuntu/ig-stalker'
